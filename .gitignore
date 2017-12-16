@@ -5,6 +5,8 @@ npm-debug.log
 debug.log
 /src/*.js
 /src/**/*.js
+/src/*.map
+/src/**/*.map
 !systemjs.config.extras.js
 !systemjs.config.js
 *.js.map
