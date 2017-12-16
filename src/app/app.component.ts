@@ -10,7 +10,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent  
 { 
-  private name: string = 'Angular'; 
+  private name: string = 'Angular Demo'; 
 
   private updateName(e: any) : void {
     this.name=e;
